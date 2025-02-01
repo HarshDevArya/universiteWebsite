@@ -1,0 +1,243 @@
+{
+  "IGNOU_Study_Centers": [
+    {
+      "code": "2802",
+      "name": "St. Xavier’s College",
+      "address": "30, Park Street, Kolkata – 700 016",
+      "email": "N/A",
+      "courses": [
+        "MEC",
+        "MEG",
+        "MHD",
+        "MAH",
+        "MPS",
+        "MAPC",
+        "MPA",
+        "MARD",
+        "MTM",
+        "MBA",
+        "MBF",
+        "MCom",
+        "MCA",
+        "MLIS"
+      ]
+    },
+    {
+      "code": "2807",
+      "name": "J. K. College",
+      "address": "Purulia – 723 101",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BA(TS)", "BCom"]
+    },
+    {
+      "code": "2809",
+      "name": "Banwarilal Bhalotia College",
+      "address": "Asansol, Burdwan – 713 303",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "2810",
+      "name": "Maulana Azad College",
+      "address": "8, Rafi Ahmed Kidwai Road, Kolkata – 700 013",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BA(TS)", "BCom"]
+    },
+    {
+      "code": "2813",
+      "name": "Midnapore College",
+      "address": "Midnapore, Paschim Midnapore Pin– 721 101",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BA(TS)", "BCom"]
+    },
+    {
+      "code": "2814",
+      "name": "Dinabandhu Andrews College",
+      "address": "Garia, Kolkata – 700 084",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BA(TS)", "BCom"]
+    },
+    {
+      "code": "2817",
+      "name": "Netaji Mahavidyalaya",
+      "address": "Arambagh, Hooghly – 712 601",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "2842",
+      "name": "Bhairab Ganguly College",
+      "address": "M M Feeder Road, Belgharia, Kolkata – 700 056",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "2848",
+      "name": "Durgapur Women’s College",
+      "address": "Durgapur – 713 209",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BA(TS)", "BCom"]
+    },
+    {
+      "code": "2855",
+      "name": "Bidhan Chandra College",
+      "address": "P.S-Hirapur, Asansol-4, Burdwan-713304",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BA(TS)", "BCom"]
+    },
+    {
+      "code": "28140",
+      "name": "Fakir Chand College",
+      "address": "Diamond Harbour, 24PGS (S) – 743331",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28143",
+      "name": "Ranaghat College",
+      "address": "PO– Ranaghat, Nadia-741201",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28149",
+      "name": "Woman’s College, Calcutta",
+      "address": "P-29 Kshirode Vidyavinode Avenue, Kolkata – 700003",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28150",
+      "name": "Kabi Sukanta Mahavidyalaya",
+      "address": "Bhadreswar, PO-Angus, Hooghly – 712221",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28157",
+      "name": "Rishi Bankim Chandra College for Women",
+      "address": "East kanthalpara, PO-Naihati, North 24 parganas – 743165",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28158",
+      "name": "Asutosh College",
+      "address": "92, S. P. Mookerjee Road, Kolkata – 700026",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28160",
+      "name": "Prabhu Jagatbandhu College",
+      "address": "Andul-Mouri, Jhorehat Howrah – 711302",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28161",
+      "name": "Jhargram Raj College",
+      "address": "AT- Raghunathpur, Jhargram – 721507",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28162",
+      "name": "Vidyasagar College for Women",
+      "address": "8/A, Shibnarayan Das Lane Kolkata – 700 006",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28163",
+      "name": "Dinabandhu Institution",
+      "address": "33/1, Gariahat Road, Kolkata – 700029",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28164",
+      "name": "Seth Anandaram Jaipuria College",
+      "address": "10, Raja Nabakrishna Street, Kolkata – 700005",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28165",
+      "name": "Gurudas College",
+      "address": "1/1, Suren Sarkar Road, Kolkata – 700010",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28166",
+      "name": "South City College",
+      "address": "72/1, S.P. Mukherjee Road, Kolkata – 700025",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28167",
+      "name": "Bangabasi College",
+      "address": "19, Rajkumar Chakraborty Sarani, Kolkata – 700009",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28168",
+      "name": "Heramba Chandra College",
+      "address": "23/49 Gariahat Road, Kolkata – 700029",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28169",
+      "name": "Maharaja Srischandra College",
+      "address": "20 Ramkanto Bose Street, Kolkata – 700003",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28170",
+      "name": "Scottish Church College",
+      "address": "1 & 3 Urquhart Square, Kolkata – 700006",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28171",
+      "name": "Seth Soorajmull Jalan Girls' College",
+      "address": "8/9, Bankim Chatterjee Street, Kolkata – 700073",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28172",
+      "name": "Sir Gurudas Mahavidyalaya",
+      "address": "33/1, Suren Sarkar Road, Beliaghata, Kolkata – 700010",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28173",
+      "name": "St. Paul's Cathedral Mission College",
+      "address": "33/1, Raja Rammohan Roy Sarani, Kolkata – 700009",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28174",
+      "name": "Surendranath College",
+      "address": "24/2 Mahatma Gandhi Road, Kolkata – 700009",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    },
+    {
+      "code": "28175",
+      "name": "Surendranath Evening College",
+      "address": "24/2 Mahatma Gandhi Road, Kolkata – 700009",
+      "email": "N/A",
+      "courses": ["BA", "BCA", "BLIS", "BSW", "BTS", "BCom"]
+    }
+  ]
+}

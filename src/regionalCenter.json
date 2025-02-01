@@ -1,0 +1,406 @@
+{
+  "IGNOU_Regional_Centers": [
+    {
+      "code": "01",
+      "place": "Agartala",
+      "email_id": "rcagartala@ignou.ac.in",
+      "contact_number": "0381-2516714"
+    },
+    {
+      "code": "02",
+      "place": "Ahmedabad",
+      "email_id": "rcahmedabad@ignou.ac.in",
+      "contact_number": "079-27663736"
+    },
+    {
+      "code": "03",
+      "place": "Aizawl",
+      "email_id": "rcaizawl@ignou.ac.in",
+      "contact_number": "0389-2391692"
+    },
+    {
+      "code": "04",
+      "place": "Aligarh",
+      "email_id": "rcaligarh@ignou.ac.in",
+      "contact_number": "N/A"
+    },
+    {
+      "code": "05",
+      "place": "Bengaluru",
+      "email_id": "rcbengaluru@ignou.ac.in",
+      "contact_number": "080-26654747"
+    },
+    {
+      "code": "06",
+      "place": "Bhopal",
+      "email_id": "rcbhopal@ignou.ac.in",
+      "contact_number": "0755-2578455"
+    },
+    {
+      "code": "07",
+      "place": "Bhubaneswar",
+      "email_id": "rcbhubaneswar@ignou.ac.in",
+      "contact_number": "0674-2971071"
+    },
+    {
+      "code": "08",
+      "place": "Bijapur",
+      "email_id": "rcbijapur@ignou.ac.in",
+      "contact_number": "08352-252006"
+    },
+    {
+      "code": "09",
+      "place": "Chandigarh",
+      "email_id": "rcchandigarh@ignou.ac.in",
+      "contact_number": "0172-2590277"
+    },
+    {
+      "code": "10",
+      "place": "Chennai",
+      "email_id": "rcchennai@ignou.ac.in",
+      "contact_number": "044-26618438"
+    },
+    {
+      "code": "11",
+      "place": "Cochin",
+      "email_id": "rccochin@ignou.ac.in",
+      "contact_number": "0484-2340203"
+    },
+    {
+      "code": "12",
+      "place": "Darbhanga",
+      "email_id": "rcdarbhanga@ignou.ac.in",
+      "contact_number": "06272-251833"
+    },
+    {
+      "code": "13",
+      "place": "Dehradun",
+      "email_id": "rcdehradun@ignou.ac.in",
+      "contact_number": "0135-2789200"
+    },
+    {
+      "code": "14",
+      "place": "Delhi-1",
+      "email_id": "rcdelhi1@ignou.ac.in",
+      "contact_number": "011-23392374"
+    },
+    {
+      "code": "15",
+      "place": "Delhi-2",
+      "email_id": "rcdelhi2@ignou.ac.in",
+      "contact_number": "011-23392376"
+    },
+    {
+      "code": "16",
+      "place": "Delhi-3",
+      "email_id": "rcdelhi3@ignou.ac.in",
+      "contact_number": "011-25088939"
+    },
+    {
+      "code": "17",
+      "place": "Deoghar",
+      "email_id": "rcdeoghar@ignou.ac.in",
+      "contact_number": "06432-291274"
+    },
+    {
+      "code": "18",
+      "place": "Gangtok",
+      "email_id": "rcgangtok@ignou.ac.in",
+      "contact_number": "03592-270923"
+    },
+    {
+      "code": "19",
+      "place": "Guwahati",
+      "email_id": "rcguwahati@ignou.ac.in",
+      "contact_number": "0361-2343771"
+    },
+    {
+      "code": "20",
+      "place": "Hyderabad",
+      "email_id": "rchyderabad@ignou.ac.in",
+      "contact_number": "040-23117550"
+    },
+    {
+      "code": "21",
+      "place": "Imphal",
+      "email_id": "rcimphal@ignou.ac.in",
+      "contact_number": "0385-2421191"
+    },
+    {
+      "code": "22",
+      "place": "Itanagar",
+      "email_id": "rcitanagar@ignou.ac.in",
+      "contact_number": "0360-2247538"
+    },
+    {
+      "code": "23",
+      "place": "Jaipur",
+      "email_id": "rcjaipur@ignou.ac.in",
+      "contact_number": "0141-2785730"
+    },
+    {
+      "code": "24",
+      "place": "Jammu",
+      "email_id": "rcjammu@ignou.ac.in",
+      "contact_number": "0191-2546529"
+    },
+    {
+      "code": "25",
+      "place": "Jodhpur",
+      "email_id": "rcjodhpur@ignou.ac.in",
+      "contact_number": "0291-2751426"
+    },
+    {
+      "code": "26",
+      "place": "Jorhat",
+      "email_id": "rcjorhat@ignou.ac.in",
+      "contact_number": "0376-2301116"
+    },
+    {
+      "code": "27",
+      "place": "Karnal",
+      "email_id": "rckarnal@ignou.ac.in",
+      "contact_number": "0184-2271514"
+    },
+    {
+      "code": "28",
+      "place": "Khanna",
+      "email_id": "rckhanna@ignou.ac.in",
+      "contact_number": "01628-229993"
+    },
+    {
+      "code": "29",
+      "place": "Kohima",
+      "email_id": "rckohima@ignou.ac.in",
+      "contact_number": "0370-2260366"
+    },
+    {
+      "code": "30",
+      "place": "Kolkata",
+      "email_id": "rckolkata@ignou.ac.in",
+      "contact_number": "033-23349850"
+    },
+    {
+      "code": "31",
+      "place": "Koraput",
+      "email_id": "rckoraput@ignou.ac.in",
+      "contact_number": "06852-251535"
+    },
+    {
+      "code": "32",
+      "place": "Lucknow",
+      "email_id": "rclucknow@ignou.ac.in",
+      "contact_number": "0522-2746120"
+    },
+    {
+      "code": "33",
+      "place": "Madurai",
+      "email_id": "rcmadurai@ignou.ac.in",
+      "contact_number": "0452-2380733"
+    },
+    {
+      "code": "34",
+      "place": "Mumbai",
+      "email_id": "rcmumbai@ignou.ac.in",
+      "contact_number": "022-25923159"
+    },
+    {
+      "code": "35",
+      "place": "Nagpur",
+      "email_id": "rcnagpur@ignou.ac.in",
+      "contact_number": "0712-2536999"
+    },
+    {
+      "code": "36",
+      "place": "Noida",
+      "email_id": "rcnoida@ignou.ac.in",
+      "contact_number": "0120-2405012"
+    },
+    {
+      "code": "37",
+      "place": "Panaji",
+      "email_id": "rcpanaji@ignou.ac.in",
+      "contact_number": "0832-2414553"
+    },
+    {
+      "code": "38",
+      "place": "Patna",
+      "email_id": "rcpatna@ignou.ac.in",
+      "contact_number": "0612-2219541"
+    },
+    {
+      "code": "39",
+      "place": "Port Blair",
+      "email_id": "rcportblair@ignou.ac.in",
+      "contact_number": "03192-242888"
+    },
+    {
+      "code": "40",
+      "place": "Pune",
+      "email_id": "rcpune@ignou.ac.in",
+      "contact_number": "020-25671867"
+    },
+    {
+      "code": "41",
+      "place": "Raghunathganj",
+      "email_id": "rcraghunathganj@ignou.ac.in",
+      "contact_number": "N/A"
+    },
+    {
+      "code": "42",
+      "place": "Rajkot",
+      "email_id": "rcrajkot@ignou.ac.in",
+      "contact_number": "N/A"
+    },
+    {
+      "code": "43",
+      "place": "Ranchi",
+      "email_id": "rcranchi@ignou.ac.in",
+      "contact_number": "0651-2244677"
+    },
+    {
+      "code": "44",
+      "place": "Saharsa",
+      "email_id": "rcsaharsa@ignou.ac.in",
+      "contact_number": "N/A"
+    },
+    {
+      "code": "45",
+      "place": "Shillong",
+      "email_id": "rcshillong@ignou.ac.in",
+      "contact_number": "0364-2551010"
+    },
+    {
+      "code": "46",
+      "place": "Shimla",
+      "email_id": "rcshimla@ignou.ac.in",
+      "contact_number": "0177-2624613"
+    },
+    {
+      "code": "47",
+      "place": "Siliguri",
+      "email_id": "rcsiliguri@ignou.ac.in",
+      "contact_number": "0353-2526818"
+    },
+    {
+      "code": "48",
+      "place": "Srinagar",
+      "email_id": "rcsrinagar@ignou.ac.in",
+      "contact_number": "0194-2311258"
+    },
+    {
+      "code": "49",
+      "place": "Trivandrum",
+      "email_id": "rctrivandrum@ignou.ac.in",
+      "contact_number": "0471-2344113"
+    },
+    {
+      "code": "50",
+      "place": "Varanasi",
+      "email_id": "rcvaranasi@ignou.ac.in",
+      "contact_number": "0542-2368622"
+    },
+    {
+      "code": "51",
+      "place": "Vatakara",
+      "email_id": "rcvatakara@ignou.ac.in",
+      "contact_number": "0496-2525281"
+    },
+    {
+      "code": "52",
+      "place": "Vijayawada",
+      "email_id": "rcvijayawada@ignou.ac.in",
+      "contact_number": "0866-2565959"
+    },
+    {
+      "code": "53",
+      "place": "Visakhapatnam",
+      "email_id": "rcvisakhapatnam@ignou.ac.in",
+      "contact_number": "0891-2511200"
+    },
+    {
+      "code": "54",
+      "place": "Vizianagaram",
+      "email_id": "rcvizianagaram@ignou.ac.in",
+      "contact_number": "N/A"
+    },
+    {
+      "code": "55",
+      "place": "Warangal",
+      "email_id": "rcwarangal@ignou.ac.in",
+      "contact_number": "0870-2454555"
+    },
+    {
+      "code": "56",
+      "place": "Karnal",
+      "email_id": "rckarnal@ignou.ac.in",
+      "contact_number": "0184-2271514"
+    },
+    {
+      "code": "57",
+      "place": "Mehsana",
+      "email_id": "rcmehsana@ignou.ac.in",
+      "contact_number": "02762-259110"
+    },
+    {
+      "code": "58",
+      "place": "Gangtok",
+      "email_id": "rcgangtok@ignou.ac.in",
+      "contact_number": "03592-270923"
+    },
+    {
+      "code": "59",
+      "place": "Itanagar",
+      "email_id": "rcitanagar@ignou.ac.in",
+      "contact_number": "0360-2247538"
+    },
+    {
+      "code": "60",
+      "place": "Nagpur",
+      "email_id": "rcnagpur@ignou.ac.in",
+      "contact_number": "0712-2536999"
+    },
+    {
+      "code": "61",
+      "place": "Patna",
+      "email_id": "rcpatna@ignou.ac.in",
+      "contact_number": "0612-2219541"
+    },
+    {
+      "code": "62",
+      "place": "Raipur",
+      "email_id": "rcraipur@ignou.ac.in",
+      "contact_number": "0771-2282507"
+    },
+    {
+      "code": "63",
+      "place": "Rajkot",
+      "email_id": "rcrajkot@ignou.ac.in",
+      "contact_number": "0281-2572988"
+    },
+    {
+      "code": "64",
+      "place": "Shillong",
+      "email_id": "rcshillong@ignou.ac.in",
+      "contact_number": "0364-2551010"
+    },
+    {
+      "code": "65",
+      "place": "Trivandrum",
+      "email_id": "rctrivandrum@ignou.ac.in",
+      "contact_number": "0471-2344113"
+    },
+    {
+      "code": "66",
+      "place": "Vatakara",
+      "email_id": "rcvatakara@ignou.ac.in",
+      "contact_number": "0496-2525281"
+    },
+    {
+      "code": "67",
+      "place": "Vijayawada",
+      "email_id": "rcvijayawada@ignou.ac.in",
+      "contact_number": "0866-2565959"
+    }
+  ]
+}

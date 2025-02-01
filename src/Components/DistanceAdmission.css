@@ -1,0 +1,194 @@
+:root {
+  --body-family: "Open Sans", sans-serif;
+  --heading-font-family: "Work Sans", sans-serif;
+  --body-color: #6b6b6b;
+  --main-color: #369bd4;
+  --heading-color: #252525;
+  --optional-color: #172f41;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --err-color: #ff4d4d;
+  --font-size: 15px;
+  --transition: all ease 0.5s;
+  --border-radius: 4px;
+  --box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+}
+body {
+  font-size: var(--font-size);
+  font-family: var(--body-family);
+  color: var(--body-color) !important;
+}
+
+.page-title-area {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+  z-index: 1;
+  background-image: url(./photos/page-title-bg-1.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.page-title-area::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--optional-color);
+  opacity: 0.8;
+  z-index: -1;
+}
+.page-title-area .page-title-content {
+  position: relative;
+  margin-top: -13px;
+}
+.page-title-area .page-title-content h2 {
+  font-family: var(--heading-font-family);
+  margin-bottom: 15px;
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--white-color);
+}
+
+.page-title-area .page-title-content ul {
+  padding-left: 0;
+  list-style-type: none;
+  margin-top: 10px;
+  margin-bottom: -5px;
+}
+
+.page-title-area .page-title-content ul li:first-child {
+  margin-left: 0;
+}
+.page-title-area .page-title-content ul li {
+  display: inline-block;
+  position: relative;
+  font-size: 16px;
+  padding-right: 15px;
+  margin-left: 15px;
+}
+
+.page-title-area .page-title-content ul li:first-child::before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  right: -3px;
+  background-color: var(--white-color);
+  width: 1px;
+  height: 15px;
+  transform: rotate(15deg);
+}
+.page-title-area .page-title-content ul li a {
+  color: var(--white-color);
+}
+.page-title-area .page-title-content ul li:last-child {
+  padding-right: 0;
+}
+.page-title-area .page-title-content ul li.active {
+  color: var(--white-color);
+}
+.page-title-area .page-title-content ul li {
+  display: inline-block;
+  position: relative;
+  font-size: 16px;
+  padding-right: 15px;
+  margin-left: 15px;
+}
+
+.ptb-100 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.candidates-resume-content {
+  background-color: var(--white-color);
+  box-shadow: var(--box-shadow);
+  padding: 30px;
+}
+.candidates-resume-content .resume-info h3 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.candidates-resume-content .resume-info .form-group {
+  margin-bottom: 30px;
+  position: relative;
+}
+.candidates-resume-content .resume-info .form-group label {
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+.candidates-resume-content .resume-info .form-group .form-control {
+  box-shadow: var(--box-shadow);
+  padding: 15px 20px;
+}
+.candidates-resume-content .resume-info .form-group i {
+  position: absolute;
+  top: 50px;
+  right: 15px;
+  font-size: 20px;
+  z-index: 1;
+}
+.ri-arrow-down-s-line:before {
+  content: "\ea4e";
+}
+.candidates-resume-content p {
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+.form-control {
+  height: 55px;
+  color: var(--main-color);
+  border: 1px solid #d7d7d7;
+  background-color: transparent;
+  border-radius: 0;
+  font-size: 16px;
+  padding: 10px 20px;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+.form-control-err {
+  height: 55px;
+  color: var(--err-color);
+  border: 1px solid var(--err-color);
+  background-color: transparent;
+  border-radius: 0;
+  font-size: 16px;
+  padding: 10px 20px;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  box-shadow: var(--box-shadow);
+  padding: 15px 20px;
+}
+
+.candidates-resume-content .checkboxs #chb2 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+}
+.candidates-resume-content .checkboxs p {
+  padding-left: 20px;
+  font-weight: 600;
+}
+.candidates-resume-content .checkboxs p a {
+  color: var(--main-color);
+}
+.candidates-resume-content .resume-info .form-group .date i {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 20px;
+}
+@media only screen and (min-width: 1300px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1320px;
+  }
+}

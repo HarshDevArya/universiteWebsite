@@ -1,0 +1,124 @@
+{
+  "Education_Boards": [
+    {
+      "name": "Central Board of Secondary Education (CBSE)",
+      "website": "cbse.gov.in"
+    },
+    {
+      "name": "Council for the Indian School Certificate Examinations (CISCE)",
+      "website": "cisce.org"
+    },
+    {
+      "name": "National Institute of Open Schooling (NIOS)",
+      "website": "nios.ac.in"
+    },
+    {
+      "name": "Andhra Pradesh Board of Intermediate Education",
+      "website": "bie.ap.gov.in"
+    },
+    {
+      "name": "Assam Higher Secondary Education Council",
+      "website": "ahsec.nic.in"
+    },
+    {
+      "name": "Bihar School Examination Board",
+      "website": "biharboardonline.bihar.gov.in"
+    },
+    {
+      "name": "Chhattisgarh Board of Secondary Education",
+      "website": "cgbse.nic.in"
+    },
+    {
+      "name": "Goa Board of Secondary and Higher Secondary Education",
+      "website": "gbshse.gov.in"
+    },
+    {
+      "name": "Gujarat Secondary and Higher Secondary Education Board",
+      "website": "gseb.org"
+    },
+    {
+      "name": "Board of School Education Haryana",
+      "website": "bseh.org.in"
+    },
+    {
+      "name": "Himachal Pradesh Board of School Education",
+      "website": "hpbose.org"
+    },
+    {
+      "name": "Jammu and Kashmir State Board of School Education",
+      "website": "jkbose.ac.in"
+    },
+    {
+      "name": "Jharkhand Academic Council",
+      "website": "jac.jharkhand.gov.in"
+    },
+    {
+      "name": "Karnataka Secondary Education Examination Board",
+      "website": "kseeb.kar.nic.in"
+    },
+    {
+      "name": "Kerala Board of Higher Secondary Education",
+      "website": "dhsekerala.gov.in"
+    },
+    {
+      "name": "Maharashtra State Board of Secondary and Higher Secondary Education",
+      "website": "mahahsscboard.in"
+    },
+    {
+      "name": "Board of Secondary Education, Madhya Pradesh",
+      "website": "mpbse.nic.in"
+    },
+    {
+      "name": "Council of Higher Secondary Education, Manipur",
+      "website": "cohsem.nic.in"
+    },
+    {
+      "name": "Meghalaya Board of School Education",
+      "website": "mbose.in"
+    },
+    {
+      "name": "Mizoram Board of School Education",
+      "website": "mbse.edu.in"
+    },
+    {
+      "name": "Nagaland Board of School Education",
+      "website": "nbsenagaland.com"
+    },
+    {
+      "name": "Odisha Board of Secondary Education",
+      "website": "bseodisha.nic.in"
+    },
+    {
+      "name": "Punjab School Education Board",
+      "website": "pseb.ac.in"
+    },
+    {
+      "name": "Board of Secondary Education, Rajasthan",
+      "website": "rajeduboard.rajasthan.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Board of Secondary Education",
+      "website": "tnschools.gov.in"
+    },
+    {
+      "name": "Telangana State Board of Intermediate Education",
+      "website": "tsbie.cgg.gov.in"
+    },
+    {
+      "name": "Tripura Board of Secondary Education",
+      "website": "tbse.tripura.gov.in"
+    },
+    {
+      "name": "Uttar Pradesh Madhyamik Shiksha Parishad",
+      "website": "upmsp.edu.in"
+    },
+    {
+      "name": "Uttarakhand Board of School Education",
+      "website": "ubse.uk.gov.in"
+    },
+    {
+      "name": "West Bengal Board of Secondary Education",
+      "website": "wbbse.org"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+/* * {
+  cursor: url("./photos/cursor.png"), auto;
+}
+p,
+h1,
+h2,
+inputinput[type="checkbox"] {
+  cursor: url("./photos/textcursor.png"), auto;
+}
+
+a,
+button,
+i,
+.search-btn,
+select,
+option {
+  cursor: url("./photos/handcursor3.png"), auto !important;
+} */

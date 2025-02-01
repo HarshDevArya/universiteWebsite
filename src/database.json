@@ -1,0 +1,445 @@
+{
+  "IGNOU_Courses": [
+    {
+      "program_code": "BAHPS",
+      "program_name": "Bachelor of Arts (Honours) Political Science",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 14,700",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BAHPSY",
+      "program_name": "Bachelor of Arts (Honours) Psychology",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 18,000",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BAHPA",
+      "program_name": "Bachelor of Arts (Honours) Public Administration",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 14,700",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BAHSO",
+      "program_name": "Bachelor of Arts (Honours) Sociology",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 14,700",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BAHEC",
+      "program_name": "Bachelor of Arts (Honours) Economics",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 11,700",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BAHE",
+      "program_name": "Bachelor of Arts (Honours) English",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 14,700",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BAHH",
+      "program_name": "Bachelor of Arts (Honours) Hindi",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 14,700",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BAHS",
+      "program_name": "Bachelor of Arts (Honours) Sanskrit",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 14,700",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BAHU",
+      "program_name": "Bachelor of Arts (Honours) Urdu",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 14,400",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BSHAN",
+      "program_name": "Bachelor of Science (Honours) Anthropology",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 18,900",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BSHB",
+      "program_name": "Bachelor of Science (Honours) Biochemistry",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 43,500",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BCOM",
+      "program_name": "Bachelor of Commerce",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 10,500",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BCA",
+      "program_name": "Bachelor of Computer Applications",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 42,000",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BLIS",
+      "program_name": "Bachelor of Library and Information Sciences",
+      "degree_type": "Undergraduate",
+      "duration": "1 year",
+      "eligibility": "Bachelor’s Degree",
+      "fee": "INR 7,900",
+      "credits": "36 credits"
+    },
+    {
+      "program_code": "BSW",
+      "program_name": "Bachelor of Social Work",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 17,500",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "BTS",
+      "program_name": "Bachelor of Tourism Studies",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 11,700",
+      "credits": "96 credits"
+    },
+    {
+      "program_code": "BPAHM",
+      "program_name": "Bachelor of Performing Arts – Hindustani Music",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 27,600",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "MAENG",
+      "program_name": "Master of Arts (English)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 15,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAHIN",
+      "program_name": "Master of Arts (Hindi)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 15,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAPS",
+      "program_name": "Master of Arts (Political Science)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 15,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAHIS",
+      "program_name": "Master of Arts (History)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 15,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MASOC",
+      "program_name": "Master of Arts (Sociology)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 14,600",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAPSY",
+      "program_name": "Master of Arts (Psychology)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 19,600",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAECO",
+      "program_name": "Master of Arts (Economics)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 18,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAPA",
+      "program_name": "Master of Arts (Public Administration)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 15,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAGPS",
+      "program_name": "Master of Arts (Gandhi and Peace Studies)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 12,400",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MARD",
+      "program_name": "Master of Arts (Rural Development)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 13,800",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAPHIL",
+      "program_name": "Master of Arts (Philosophy)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 14,400",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MAEDU",
+      "program_name": "Master of Arts (Education)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 19,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MSCFN",
+      "program_name": "Master of Science (Food Nutrition)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "B.Sc. (Home Science)",
+      "fee": "INR 33,400",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MSCCFT",
+      "program_name": "Master of Science (Counselling and Family Therapy)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 34,600",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MSCIS",
+      "program_name": "Master of Science (Information Security)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 34,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MCOM",
+      "program_name": "Master of Commerce",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 19,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "MCA",
+      "program_name": "Master of Computer Applications",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 50,000",
+      "credits": "108 credits"
+    },
+    {
+      "program_code": "MSW",
+      "program_name": "Master of Social Work",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 36,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "DCHFE",
+      "program_name": "Diploma in HIV and Family Education",
+      "degree_type": "Diploma",
+      "duration": "1 year",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 6,000",
+      "credits": "32 credits"
+    },
+    {
+      "program_code": "DNHE",
+      "program_name": "Diploma in Nutrition & Health Education",
+      "degree_type": "Diploma",
+      "duration": "1 year",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 12,000",
+      "credits": "32 credits"
+    },
+    {
+      "program_code": "DCE",
+      "program_name": "Diploma in Creative Writing in English",
+      "degree_type": "Diploma",
+      "duration": "1 year",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 12,200",
+      "credits": "32 credits"
+    },
+    {
+      "program_code": "DECE",
+      "program_name": "Diploma in Early Childhood Care and Education",
+      "degree_type": "Diploma",
+      "duration": "1 year",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 12,000",
+      "credits": "32 credits"
+    },
+    {
+      "program_code": "DWED",
+      "program_name": "Diploma in Women’s Empowerment and Development",
+      "degree_type": "Diploma",
+      "duration": "1 year",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 6,000",
+      "credits": "32 credits"
+    },
+    {
+      "program_code": "BAPAM",
+      "program_name": "Bachelor of Performing Arts – Hindustani Music",
+      "degree_type": "Undergraduate",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 27,600",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "MADEV",
+      "program_name": "Master of Arts (Development Studies)",
+      "degree_type": "Postgraduate",
+      "duration": "2 years",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 13,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "DACDM",
+      "program_name": "Diploma in Aquaculture",
+      "degree_type": "Diploma",
+      "duration": "1 year",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 12,000",
+      "credits": "32 credits"
+    },
+    {
+      "program_code": "DTG",
+      "program_name": "Diploma in Teaching German as a Foreign Language",
+      "degree_type": "Diploma",
+      "duration": "1 year",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 12,000",
+      "credits": "32 credits"
+    },
+    {
+      "program_code": "CTE",
+      "program_name": "Certificate in Teaching English as a Second Language",
+      "degree_type": "Certificate",
+      "duration": "6 months",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 6,000",
+      "credits": "16 credits"
+    },
+    {
+      "program_code": "CIT",
+      "program_name": "Certificate in Information Technology",
+      "degree_type": "Certificate",
+      "duration": "6 months",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 6,000",
+      "credits": "18 credits"
+    },
+    {
+      "program_code": "OBBA",
+      "program_name": "Online BBA in Marketing",
+      "degree_type": "Online",
+      "duration": "3 years",
+      "eligibility": "10+2 or its equivalent",
+      "fee": "INR 30,000",
+      "credits": "132 credits"
+    },
+    {
+      "program_code": "OMSC",
+      "program_name": "Online M.Sc in Data Science",
+      "degree_type": "Online",
+      "duration": "2 years",
+      "eligibility": "Bachelor’s Degree in relevant field",
+      "fee": "INR 50,000",
+      "credits": "64 credits"
+    },
+    {
+      "program_code": "PGDCA",
+      "program_name": "Post Graduate Diploma in Computer Applications",
+      "degree_type": "Post Graduate Diploma",
+      "duration": "1 year",
+      "eligibility": "Bachelor's Degree",
+      "fee": "INR 21,000",
+      "credits": "36 credits"
+    }
+  ]
+}

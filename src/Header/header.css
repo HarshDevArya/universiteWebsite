@@ -1,0 +1,183 @@
+:root {
+  --body-family: "Open Sans", sans-serif;
+  --heading-font-family: "Work Sans", sans-serif;
+  --body-color: #6b6b6b;
+  --main-color: #92210f;
+  --heading-color: #252525;
+  --optional-color: #172f41;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --font-size: 15px;
+  --transition: all ease 0.5s;
+  --border-radius: 4px;
+  --box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+}
+
+.top-header {
+  background-color: #369bd4;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.top-header .header-left-content {
+  line-height: 1;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+.top-header .header-left-content li {
+  color: var(--white-color);
+}
+.top-header .header-left-content li i {
+  font-size: 18px;
+  transition: var(--transition);
+  color: var(--white-color);
+  text-align: center;
+  border-radius: 50%;
+  line-height: 1;
+  margin-right: 5px;
+  position: relative;
+  top: 7px;
+}
+.top-header .header-left-content p {
+  display: inline-block;
+  position: relative;
+  top: 7px;
+}
+.date {
+  margin-right: 10px;
+}
+
+.top-header .header-right-content {
+  line-height: 1;
+  float: right;
+  position: relative;
+  top: -2px;
+  margin-right: 10px;
+}
+.top-header .header-right-content .languages-switcher {
+  position: relative;
+  padding-left: 20px;
+  display: inline-block;
+  top: 1px;
+}
+.top-header .header-right-content .languages-switcher i {
+  position: absolute;
+  left: 0;
+  top: 3px;
+  color: white;
+  margin-right: 0;
+}
+.top-header .header-right-content .languages-switcher select {
+  padding: 0;
+  background-color: transparent;
+  border: none !important;
+  cursor: pointer;
+  color: white;
+  font-size: 15px;
+}
+.top-header .header-right-content .languages-switcher select option {
+  color: #369bd4;
+}
+.top-header .header-right-content .my-account {
+  margin-left: 30px;
+  position: relative;
+  top: 3px;
+  display: inline-block;
+}
+.top-header .header-right-content .my-account a {
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  background-color: #4a7994;
+  border-radius: 50px;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: -1px;
+}
+.top-header .header-right-content .my-account a i {
+  color: white;
+  position: relative;
+  left: 0.4px;
+  top: 0.9px;
+  font-size: 23px;
+}
+.top-header .header-right-content .twitter-icon {
+  display: inline-block;
+  position: relative;
+  top: 1px;
+  margin-left: 30px;
+}
+
+/* .top-header .header-right-content .twitter-icon a span {
+  position: absolute;
+  top: -12px;
+  right: -10px;
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  line-height: 17px;
+  text-align: center;
+  background-color: var(--main-color);
+  border-radius: 50%;
+  color: var(--white-color);
+  font-size: 10px;
+} */
+
+.top-header .header-right-content .twitter-icon a i {
+  color: var(--white-color);
+  font-size: 18px;
+}
+
+/* .top-header .header-right-content .cart-icon a span {
+  position: absolute;
+  top: -12px;
+  right: -10px;
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  line-height: 17px;
+  text-align: center;
+  background-color: var(--main-color);
+  border-radius: 50%;
+  color: var(--white-color);
+  font-size: 10px;
+} */
+
+a {
+  text-decoration: none;
+  color: #6b6b6b;
+}
+
+option {
+  font-weight: normal;
+  display: block;
+  min-height: 1.2em;
+  padding: 0px 2px 1px;
+  white-space: nowrap;
+}
+
+select:focus {
+  outline: none;
+}
+
+@media (max-width: 767.98px) {
+  /* Adjust this value based on the specific breakpoint you want to target */
+  .text-center-sm-only {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  /* Adjust based on your breakpoint needs */
+  .top-header .header-right-content {
+    float: none; /* Disable float on small screens */
+    margin-right: 0; /* Reset margin if needed */
+    margin-left: auto; /* Center align for flexbox/grid */
+    margin-right: auto; /* Center align for flexbox/grid */
+    text-align: center; /* Center text for inline elements */
+  }
+}
