@@ -1,0 +1,249 @@
+:root {
+  --body-family: "Open Sans", sans-serif;
+  --heading-font-family: "Work Sans", sans-serif;
+  --body-color: #6b6b6b;
+  --main-color: #369bd4;
+  --heading-color: #252525;
+  --optional-color: #4a7994;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --font-size: 15px;
+  --transition: all ease 0.5s;
+  --border-radius: 4px;
+  --box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+}
+
+.backgroundIMG {
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://templates.envytheme.com/unco/default/assets/images/banner/banner-bg-1.jpg");
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 2269.2px;
+  height: 726.078px;
+  overflow: hidden;
+  pointer-events: none;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  margin-top: -58.039px;
+  transform: translate3d(0px, 128.023px, 0px);
+}
+
+.jarallax-container {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -100;
+  clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px 100%);
+}
+
+.bg1 {
+  background-image: none;
+}
+
+.banner-area::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--white-color);
+  opacity: 0.9;
+  z-index: -1;
+}
+
+.banner-area {
+  position: relative;
+  z-index: 1;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  overflow: hidden;
+}
+
+.banner-area::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 600px;
+  height: 100%;
+  background-color: #172f41;
+  z-index: -1;
+}
+.d-table {
+  width: 100%;
+  height: 100%;
+}
+.d-table-cell {
+  vertical-align: middle;
+}
+.banner-content {
+  margin-top: 90px;
+}
+.banner-content span {
+  font-size: 16px;
+  display: block;
+  color: var(--main-color);
+  margin-bottom: 10px;
+}
+.bannerImageDiv {
+  margin-top: 100px;
+}
+
+@media only screen and (min-width: 1500px) {
+  .banner-content h1 {
+    font-size: 65px;
+  }
+}
+
+.banner-content h1 {
+  font-size: 55px;
+  margin-bottom: 25px;
+  color: var(--heading-color);
+  animation: 0.6s fadeInUpBig;
+  font-weight: 900;
+  line-height: 1.3;
+}
+
+@keyframes fadeInUpBig {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 2000px, 0);
+    transform: translate3d(0, 2000px, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+}
+
+/* Button CSS */
+
+.banner-content .banner-btn {
+  animation: 1s fadeInUpBig;
+  margin-top: 40px;
+}
+.default-btn {
+  font-size: 16px;
+  color: var(--white-color);
+  line-height: 1;
+  transition: var(--transition);
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-table;
+  padding: 18px 30px;
+  font-weight: 600;
+  background-color: var(--main-color);
+}
+
+.banner-content .courses-link {
+  margin-top: 100px;
+  animation: 1s fadeInUpBig;
+}
+.banner-content .courses-link a {
+  font-size: 18px;
+  color: var(--heading-color);
+}
+.banner-content .courses-link a i {
+  position: relative;
+  top: 4px;
+  margin-left: 8px;
+}
+.banner-content .courses-link .study-online {
+  margin-left: 100px;
+}
+
+/* banner Image */
+.banner-img {
+  animation: 1s fadeInUpBig;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+/* Social Links */
+
+.banner-area .social-link {
+  display: inline-flex;
+  flex-flow: column nowrap;
+  position: absolute;
+  top: 26%;
+  right: -23px;
+  z-index: 1;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  transform: rotate(-180deg);
+}
+.banner-area .social-link li {
+  margin: 35px 0;
+}
+.banner-area .social-link li a {
+  display: block;
+  transform: rotate(90deg);
+  color: var(--white-color);
+  font-weight: 500;
+  text-transform: capitalize;
+  font-size: 16px;
+}
+
+@media only screen and (min-width: 1500px) {
+  .banner-area .social-link {
+    right: 32px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .banner-area::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 72px;
+    height: 100%;
+    background-color: #172f41;
+    z-index: -1;
+  }
+  .banner-area .social-link {
+    display: inline-flex;
+    flex-flow: column nowrap;
+    position: absolute;
+    top: 26%;
+    right: 1px;
+    z-index: 1;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    transform: rotate(-180deg);
+  }
+}
+@media only screen and (max-width: 490px) {
+  .banner-content .courses-link .study-online {
+    display: block;
+    margin: 20px 0 0;
+  }
+}
+@media (min-width: 993px) and (max-width: 1190px) {
+  .banner-area::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 525px;
+    height: 100%;
+    background-color: #172f41;
+    z-index: -1;
+  }
+}
